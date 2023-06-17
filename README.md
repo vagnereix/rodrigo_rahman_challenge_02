@@ -7,7 +7,7 @@
 
 O resultado obtido foi o seguinte:
 
-![alt](.github/result.png)
+<img src=".github/result.png" alt="" height="550px" />
 
 ## Instalação e execução
 
