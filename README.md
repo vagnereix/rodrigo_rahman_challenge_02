@@ -1,10 +1,10 @@
 # Desafio 02 - Rodrigo Rahman
 
-[O desafio](https://www.instagram.com/p/Ctj89qUA9Zg/) proposto foi a criação do seguinte botão:
+## [O desafio](https://www.instagram.com/p/Ctj89qUA9Zg/) proposto foi a criação do seguinte botão:
 
 ![alt](.github/print.png)
 
-O resultado obtido foi o seguinte:
+## O resultado obtido foi o seguinte:
 
 <img src=".github/result.png" alt="" height="550px" />
 
