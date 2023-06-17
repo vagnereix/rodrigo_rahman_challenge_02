@@ -1,16 +1,8 @@
-# rodrigo_rahman_challenge_02
-
-A new Flutter project.
+# Desafio 02 - Rodrigo Rahman
 
 ## Getting Started
+[O desafio](https://www.instagram.com/p/Ctj89qUA9Zg/) proposto foi a criação do seguinte botão:
 
-This project is a starting point for a Flutter application.
+[Imagem aqui]
 
-A few resources to get you started if this is your first Flutter project:
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
